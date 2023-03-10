@@ -1,0 +1,33 @@
+
+
+.bloqueUno{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+.bloque-2{
+
+background-color: rgb(141, 71, 206);
+color: white;
+text-align: center;
+
+
+
+}
+
+.bloque-3{
+background-color: aqua;
+color: blueviolet;
+text-align: end;
+text-decoration:underline;
+
+}
+
+
+h3{
+    margin-right: 20px;
+}
+
+span{
+    color: aqua;
+}
