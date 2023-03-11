@@ -1,0 +1,52 @@
+.perfil img{
+    width: 150px;
+    border: 5px solid black;
+
+}
+.links img{
+    width: 50px;
+}
+
+.links{
+    display: flex;
+}
+.links a{
+    display: block;
+    margin-top: 25px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+table{
+    border-collapse: collapse; 
+}
+table tbody tr{
+    border-top: 2px solid black;
+
+}
+.border_right{
+    border-right: 2px solid black;
+}
+
+.pacman {
+    padding: 5px;
+    border: 4px solid black;
+    font-size: 1cm;
+}
+
+.formdiv{
+    display: flex; 
+    margin-bottom: 10px;
+}
+
+.emailform{
+    display: flex;
+}
+
+.nameform{
+    display: flex;
+    margin-right: 8px;
+}
+form input{
+    width: 2cm;
+}
